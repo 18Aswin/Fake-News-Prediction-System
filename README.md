@@ -46,6 +46,10 @@ Place your training and test datasets in the `data/` directory. The CSV files sh
 
 The script `FakeNews Predictor` is used to make predictions on new data using the trained model. It reads the test data, preprocesses it, and outputs the predictions.
 
+## Dataset Used
+
+https://www.kaggle.com/c/fake-news/data?select=train.csv
+
 
 ## Conclusion
 
