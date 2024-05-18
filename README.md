@@ -8,7 +8,7 @@ This project implements a fake news prediction system using a Logistic Regressio
 
 Before you begin, ensure you have the following installed:
 
-- Python 3.x
+- Python 3.11
 - pandas
 - scikit-learn
 - numpy
